@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AUT_CrudReto_1742699_1266078" />
+        <module name="AUT_CrudRetoQA_1742699" />
+        <module name="AUT_CrudRetoQA_1742699_1266078" />
+        <module name="Reto TCS API REST" />
+        <module name="Aut_Reto" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+
+psquid:S1192"MDefine a constant instead of duplicating this literal "Content-Type" 7 times.(Ô øÜÿÿÿÿÿ8ø­¹ªû-
+fsquid:S1192"HDefine a constant instead of duplicating this literal "Bearer " 7 times.(‘îØ÷8ø­¹ªû-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(›öÏ›8á£÷ªû-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«—ëâùÿÿÿÿ
+tsquid:S1192"QDefine a constant instead of duplicating this literal "application/json" 7 times.(Ô øÜÿÿÿÿÿ8ø­¹ªû-
+rsquid:S00100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛôÐ…üÿÿÿÿ8ø­¹ªû-
+lsquid:S1192"NDefine a constant instead of duplicating this literal "Authorization" 7 times.(‘îØ÷8ø­¹ªû-
+lsquid:S1192"ODefine a constant instead of duplicating this literal "respuestaToken" 7 times.(¸¸½q8ø­¹ªû-
+Lsquid:S11722")Remove this unused method parameter "id".(õ¬ŒÔþÿÿÿÿ8È†Ð€‚.

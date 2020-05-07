@@ -1,0 +1,7 @@
+{
+  "name": "${name}",
+  "credit_card": "${credit_card}",
+  "address": "${address}",
+  "phone_number": "${phone_number}",
+  "email": "${email}"
+}
