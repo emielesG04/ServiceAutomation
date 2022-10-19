@@ -16,7 +16,7 @@
         <serenity.cucumber.version>1.0.18</serenity.cucumber.version>
         <cucumber.version>4.2.0</cucumber.version>
         <poi.version>3.15</poi.version>
-        <jackson.version>2.9.9</jackson.version>
+        <jackson.version>2.13.4.1</jackson.version>
     </properties>
 
 
